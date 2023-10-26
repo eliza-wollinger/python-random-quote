@@ -26,7 +26,7 @@ Open a terminal and navigate to the project directory.
 Run the script by executing the following command:
 
 ```
-python random-quote-generator.py
+python get-quote.py
 ```
 
 The script will read the quotes from the quotes.txt file and print a random quote to the console.
